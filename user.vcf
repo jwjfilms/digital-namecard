@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:jimmy@jwjfilms.com
 TEL;type=WORK;type=VOICE:+1 646 247 6345
 item1.ADR;type=WORK;type=pref:;;4222 Ketcham St. Apt. 18b;;;11373;Elmhurst NY
 item1.X-ABADR:sg
-item2.URL;type=pref:jwjfilms.com
+item2.URL;type=pref:www.jwjfilms.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
